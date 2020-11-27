@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Raj Patel
+title: "Raj Patel"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Software Engineer
+role: "Software Engineer"
 
 # Organizations/Affiliations
 organizations:
-- name: Samsung Research Institute
+- name: "Samsung Research Institute"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine learning, Natural Language processing, and......
+bio: "My research interests include Machine learning, Natural Language processing, and......"
 
 interests:
 - Artificial Intelligence
