@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Raj Patel is a software engineer
+Raj Patel is a software engineer (Rest of the portions of this page are still under contruction)
