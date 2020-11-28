@@ -6,32 +6,27 @@ title: Raj Patel
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Samsung Research Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine learning, Natural language Processing, reinforcement learning, and Distributed systems
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine learning
+- NLP
+- Reinforcement learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelors in Computer Science and Engineering
+    institution: Nirma University, India
+    year: 2017
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
