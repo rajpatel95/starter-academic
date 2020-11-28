@@ -39,9 +39,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rjpatel117
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/rajpatel95
