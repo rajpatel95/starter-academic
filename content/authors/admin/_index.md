@@ -6,11 +6,12 @@ title: Raj Patel
 superuser: true
 
 # Role/position
-role: Software Engineer
+role: Lead Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Samsung Research Institute
+- name: Adobe
+- name: Samsung Research 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
