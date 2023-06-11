@@ -6,23 +6,28 @@ title: Raj Patel
 superuser: true
 
 # Role/position
-role: Lead Software Engineer
+role: Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Samsung Research 
+- name: University of Southern California (USC)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine learning, Natural language Processing, reinforcement learning, and Distributed systems
+bio: TBC
 
 interests:
 - Machine learning
 - NLP
-- Reinforcement learning
+- Big Data
+- Distributed Systems
 
 education:
   courses:
+  -course: Masters of Science in Computer Science
+    institution: University of Southern California (USC), Los Angeles, USA
+    year: 2023
+   
   - course: Bachelors in Computer Science and Engineering
     institution: Nirma University, India
     year: 2017
