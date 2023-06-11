@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  -course: Masters of Science in Computer Science
+  - course: Masters of Science in Computer Science
     institution: University of Southern California (USC), Los Angeles, USA
     year: 2023
    
