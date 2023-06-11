@@ -10,7 +10,6 @@ role: Lead Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Adobe
 - name: Samsung Research 
   url: ""
 
