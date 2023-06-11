@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: TBC
+bio: Need to update this(TBC)
 
 interests:
 - Machine learning
